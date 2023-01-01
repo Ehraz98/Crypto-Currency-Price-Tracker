@@ -1,5 +1,17 @@
 # CryptoChecker
 
+## CryptoChecker [Live Link](https://updates-crypto.netlify.app/coin-list)
+
+-   Skills Gained in this project
+    -  Angular,Angular Material,Rxjs,Routing,Chart.js
+    - Implemented pagination,sorting and filtering using Angular Material
+    - Used behaviour subject to communicate to various parts of application
+    - Deployed anagular application on free hosting website.
+
+![Desktop]( ../crypto-checker/src/assets/Screenshot%20(76).png )
+![Desktop]( ../crypto-checker/src/assets/Screenshot%20(77).png )
+![Desktop]( ../crypto-checker/src/assets/Screenshot%20(78).png )
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
